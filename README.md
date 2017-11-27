@@ -1,5 +1,5 @@
-# ExpectativaDePublico
-Desenvolvimento de um algoritmo que retorna a expectativa de público em um evento, baseado nas informações das inscrições de eventos anteriores
+# Estimativa De Público
+Desenvolvimento de um algoritmo que retorna a estimativa de público em um evento, baseado nas informações das inscrições de eventos anteriores.
 
 Para maiores informações, olhe o Relatório Estimativa_de_Público_-_Eduardo_Carneiro_-_113149505.pdf
 
